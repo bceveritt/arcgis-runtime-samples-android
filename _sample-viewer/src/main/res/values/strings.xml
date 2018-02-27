@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sample Viewer</string>
+    <string name="card_analysis">Analysis</string>
+    <string name="card_cloud_and_portal">Cloud and Portal</string>
+    <string name="card_layers">Cloud and Portal</string>
+    <string name="card_manage_data">Manage Data</string>
+    <string name="card_maps_and_scenes">Maps and Scenes</string>
+    <string name="card_routing_and_logistics">Routing and Logistics</string>
+    <string name="card_search_and_query">Search and Query</string>
+    <string name="card_visualization">Visualization</string>
+</resources>
