@@ -8,3 +8,7 @@ We are testing our **develop** branch with [Android Studio 3.0](https://develope
 
 - From the Android Studio toolbar select **File > Import Project**, or **Import Non-Android Studio** project from the **Welcome Quick Start**.
 - Navigate to the **java** project directory and click OK
+
+## Adding information for 592
+Brian Everitt
+592 Mobile GIS editing Android and ESRI Runtime SDK samples on GitHub
